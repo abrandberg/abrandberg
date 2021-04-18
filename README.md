@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I am a PhD student at the department of Engineering Mechanics at KTH Royal Institute of Technology in Stockholm, Sweden. I work mostly on the solid mechanics of paper and paperboard. My group is led by professor [Artem Kulachenko](https://www.kth.se/profile/artem) and most of the repositories you will find here in some way contribute to the larger goal of the group.
+
+I host work related to my teaching on [my KTH profile page](https://www.kth.se/profile/augustbr).
+
+My research articles can be found via [my orcid profile page](https://orcid.org/0000-0001-5580-5023).
+
+I also have a traditional resume on [LinkedIn](https://www.linkedin.com/in/augustbrandberg/).
+
 <!--
 **abrandberg/abrandberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
