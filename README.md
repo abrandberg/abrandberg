@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a consultant within solid mechanics and structural analysis. I have a PhD from the department of Engineering Mechanics at KTH Royal Institute of Technology in Stockholm, Sweden. I worked mostly on the solid mechanics of paper and paperboard. My group is led by professor [Artem Kulachenko](https://www.kth.se/profile/artem) and most of the repositories you will find here in some way contribute to the larger goal of the group.
+I am a consultant within solid mechanics and structural analysis. 
 
-You can get in contact with me via my employer, [Lightness by Design AB](https://lightness.eu/career/)
+I have a PhD from the department of Engineering Mechanics at KTH Royal Institute of Technology in Stockholm, Sweden. I worked mostly on the solid mechanics of paper and paperboard. My group is led by professor [Artem Kulachenko](https://www.kth.se/profile/artem) and most of the repositories you will find here in some way contribute to the larger goal of the group.
+
+You can get in contact with me via my employer, [Lightness by Design AB](https://lightness.eu/career/).
 
 I host work related to my teaching on [my KTH profile page](https://www.kth.se/profile/augustbr).
 
